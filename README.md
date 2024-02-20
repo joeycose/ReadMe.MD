@@ -18,14 +18,14 @@
 * Microsoft SQL Server
 * AWS Cloud Applications
 
-**IDE**
+**IDE:**
 
 * Visual Studio Code
 * Visual Studio
 * CLion
 * VIM
 
-**Operating Systems**
+**Operating Systems:**
 
 * Mac OS
 * Linux (Debian, Arch)
