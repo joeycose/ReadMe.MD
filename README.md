@@ -13,7 +13,6 @@
 
 * MERN
 * MEAN
-* MVC
 * Blazor NET
 * ASP.NET
 * Microsoft SQL Server
